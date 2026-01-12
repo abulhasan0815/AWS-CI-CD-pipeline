@@ -39,7 +39,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/.git
+    git clone https://github.com/abulhasan0815/AWS-CI-CD-pipeline.git
     ```
 2. Navigate to the project directory:
     ```bash
